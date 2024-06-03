@@ -1,0 +1,25 @@
+<header>
+   <img src="" alt="">
+<img src="/img/alurastart logo 1.png" alt="logo da alura start">
+<img class="cabecalho-imagem" src="./img/alurastart logo 1.ponq"
+.cabecalho-imagem{
+}
+.cabecalho-imagem{
+
+  widith: 20%
+
+}
+<header class="cabecalho">
+<img class="cabecalho-imagem" szc="/headeralurasntart logo.png alt=" logo da alura
+star">
+<li class="cabecalho-lista-item>
+  <li>estudante</li>
+  <li>escola</li>
+</ul>
+.cabecalho{
+background-color: #383D58;
+color:white;
+}
+color:whinte;
+display:flex:
+}
